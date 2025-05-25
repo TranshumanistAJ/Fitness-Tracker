@@ -1,5 +1,6 @@
-Fitness Goal Tracker
-How to Use This Repo
+### Fitness Goal Tracker
+
+#### How to Use This Repo
 
 Fork this repo:
 
